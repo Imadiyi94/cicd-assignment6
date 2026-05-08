@@ -31,4 +31,4 @@ jobs:
           aws-region: us-east-1
 
       - name: Deploy to S3
-        run: aws s3 sync ./build s3://imadiyi-cicd-assignment6-S3bucket --delete
+        run: aws s3 sync ./build s3://imadiyi-cicd-assignment6-s3bucket --delete
