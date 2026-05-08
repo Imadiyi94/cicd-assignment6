@@ -25,7 +25,7 @@ function App() {
         boxShadow: '0 10px 25px rgba(0,0,0,0.2)',
         textAlign: 'center'
       }}>
-        <h1>CI/CD Assignment 6</h1>
+        <h1>CI/CD Pipeline Assignment 6</h1>
         <h2>Imadiyi Osamudiamen</h2>
         <p><strong>BootCamp:</strong>TechCrush</p>
         <p><strong>Deployed via:</strong> GitHub Actions + AWS S3</p>
